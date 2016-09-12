@@ -44,6 +44,6 @@ Repositorio para el estudio de la entrevista de Google, Amazon, entre otras.
 
 # Links
 
-* [](https://www.interviewcake.com/google-interview-questions)
+* [Interview cake Google Questions](https://www.interviewcake.com/google-interview-questions)
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
