@@ -28,6 +28,10 @@ Repositorio para el estudio de la entrevista de Google, Amazon, entre otras.
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 
+* Advanced Data Structures
+  * http://courses.csail.mit.edu/6.851/spring12/lectures/
+
+
 # Cheat sheets
 
 * Cheat sheets:
