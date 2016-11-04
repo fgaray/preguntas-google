@@ -30,6 +30,8 @@ Repositorio para el estudio de la entrevista de Google, Amazon, entre otras.
 
 * Advanced Data Structures
   * http://courses.csail.mit.edu/6.851/spring12/lectures/
+* Algorithms, Etc.:
+  * http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 
 # Cheat sheets
