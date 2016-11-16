@@ -7,6 +7,8 @@
 |
 <b><a href="#estructura-de-datos">Estructura de datos</a></b>
 |
+<b><a href="#arboles">Arboles</a></b>
+|
 <b><a href="#cheat-sheets">Cheat Sheets</a></b>
 |
 <b><a href="#style-guide">Google Code styleguide</a></b>
@@ -33,6 +35,12 @@ Repositorio para el estudio de la entrevista de Google, Amazon, entre otras.
 * Algorithms, Etc.:
   * http://jeffe.cs.illinois.edu/teaching/algorithms/
 
+# Arboles
+
+* Curso general de árboles
+  * https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
+  * BFS: MIT [https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13]
+  * DFS: MIT [https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14]
 
 # Cheat sheets
 
