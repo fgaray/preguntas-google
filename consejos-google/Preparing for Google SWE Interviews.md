@@ -3,25 +3,24 @@
 This document is meant to help you prepare for your upcoming Software Engineering Interview. Keep in mind that Google takes an academic approach to the interviewing process: we are interested in your thought process, your approach to problem solving, and your skills in algorithms, coding, and performance.
 
 ##To prepare you for the interview and answer any additional questions, please review the following##
-
-Great blog post on what to expect and how to prepare**
-Interviewing at Google
-How to Get Hired by Dan Kegel
-Five Essential Phone Screen Questions by Steve Yegge (Google Engineer)
-Binary Search
-Project Euler
-Google+ Technical Interview Coaching Session (Recommended!)
+* [Great blog post on what to expect and how to prepare**](http://xrds.acm.org/article.cfm?aid=2539270)
+* [Interviewing at Google](http://www.youtube.com/watch?v=w887NIa_V9w)
+* [How to Get Hired by Dan Kegel](http://www.kegel.com/academy/getting-hired.html)
+* [Five Essential Phone Screen Questions by Steve Yegge (Google Engineer)](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [Binary Search](http://en.wikipedia.org/wiki/Binary_search)
+* [Project Euler](http://projecteuler.net/)
+* [Google+ Technical Interview Coaching Session (Recommended!)](http://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
 
 ## Books
-Cracking the Coding Interview (Recommended) 
-Programming Interviews Exposed: Secrets to Landing Your Next Job
-Programming Pearls by Jon Bentley
-Introduction to Algorithms by Thomas H. Cormen
+* [Cracking the Coding Interview (Recommended)](http://books.google.ch/books?id=nlgWywAACAAJ&dq=Cracking+the+Coding+Interview&hl=en&sa=X&ei=hUTtUfXVCoSg4gS5v4C4BQ&ved=0CDgQ6AEwAg) 
+* [Programming Interviews Exposed: Secrets to Landing Your Next Job](http://books.google.ch/books/about/Programming_Interviews_Exposed.html?id=9_by-rpCSSUC&redir_esc=y)
+* [Programming Pearls by Jon Bentley](http://books.google.ch/books/about/Programming_Pearls_2_E.html?id=vyhrriC6qcEC&redir_esc=y)
+* [Introduction to Algorithms by Thomas H. Cormen](http://books.google.ch/books/about/Introduction_to_Algorithms.html?id=VK9hPgAACAAJ&redir_esc=y)
 
 ##Online resources##
-Google Spanner: Google's Globally-Distributed Database
-Google Chubby
-Google Education: Guide for Technical Development
+* [Google Spanner: Google's Globally-Distributed Database]()
+* [Google Chubby](http://research.google.com/archive/chubby.html)
+* [Google Education: Guide for Technical Development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
 
 
 
@@ -31,7 +30,7 @@ Google Education: Guide for Technical Development
 * Big-O analysis: You need to know Big-O. It's a must. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. It's, like, one chapter in the beginning of one theory of computation book, so just go read it. You can do it.
 * Sorting and hashing
 * Handling obscenely large amounts of data
-Types of algorithm questions Google asks: Top Coder Tutorials
+Types of algorithm questions Google asks: [Top Coder Tutorials](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
 
 Book to review basic algorithms: Introduction to the Design and Analysis of Algorithms by Anany Levitin
 
