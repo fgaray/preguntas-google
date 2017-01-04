@@ -64,5 +64,8 @@ Repositorio para el estudio de la entrevista de Google, Amazon, entre otras.
 # Links
 
 * [Interview cake Google Questions](https://www.interviewcake.com/google-interview-questions)
+* [LEDDIT](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process/)
+* [](https://www.glassdoor.ca/Interview/Google-Software-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,24.htm)
+
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
